@@ -1,17 +1,12 @@
-# Ankita Anand — personal research portfolio — Portfolio
+# Ankita Anand — Personal Portfolio
 
-A lightweight static portfolio for GitHub Pages.
+A three-page GitHub Pages portfolio: About, Projects, and Other things.
 
-## Publish on GitHub Pages
+## Add a photo
+Replace the `.photo-placeholder` in `index.html` with an image when ready.
 
-1. Create a repository named `ankitaanand26.github.io`.
-2. Upload `index.html`, `style.css`, and `script.js`.
-3. Add your current PDF résumé as `Ankita_Anand_Resume.pdf`.
-4. In **Settings → Pages**, deploy from the `main` branch and `/ (root)`.
-5. The site will be available at `https://ankitaanand26.github.io/`.
+## Add project media and links
+Each project card has a `.project-media` area and a `.project-links` row. Replace the placeholders with your images, videos, demos, writeups, and repository URLs.
 
-## Before publishing
-- Replace the Google Scholar placeholder with your actual profile if you have one.
-- Add project/research repository links as they become ready.
-- Add a professional headshot only if you want one; the current design intentionally works without it.
-- Keep the homepage selective and use the résumé for exhaustive details.
+## Deploy
+Push the contents of this folder to `ankitaanand26/ankitaanand26.github.io` and enable GitHub Pages from `main` / root.
