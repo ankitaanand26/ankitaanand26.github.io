@@ -1,4 +1,4 @@
-# Ankita Anand — Portfolio
+# Ankita Anand — personal research portfolio — Portfolio
 
 A lightweight static portfolio for GitHub Pages.
 
